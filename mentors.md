@@ -13,7 +13,7 @@ These are folks that have volunteered their time to help mentor anyone. By addin
 * jroeder
 
 ## C#/.Net
-
+* Sean Martz
 ## Machine Learning
 
 ## Java
@@ -47,3 +47,4 @@ These are folks that have volunteered their time to help mentor anyone. By addin
 ## Career Development
 * joshuag
 * jroeder
+* mark.harwood
