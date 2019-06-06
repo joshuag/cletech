@@ -1,6 +1,6 @@
 # The Cleveland Tech Mentorship list
 
-These are folks that have volunteered their time to help mentor anyone. By adding your name here, you are signalling your availability via the Cleveland Tech Slack to answer questions in your area of expertise.
+These are folks that have volunteered their time to help mentor anyone. By adding your slack username here, you are signalling your availability via the Cleveland Tech Slack to answer questions in your area of expertise.
 
 ## Engineering Management
 * joshuag
