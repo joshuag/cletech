@@ -13,6 +13,7 @@ Feel free to add a category if you feel as though one is missing.
 
 ## Ruby
 * jroeder
+* jon (Jonathan Knapp)
 
 ## C#/.Net
 * Sean Martz
@@ -21,6 +22,9 @@ Feel free to add a category if you feel as though one is missing.
 ## Machine Learning
 
 ## Java
+
+## JavaScript/Node
+* jon (Jonathan Knapp)
 
 ## Careers
 
@@ -32,6 +36,7 @@ Feel free to add a category if you feel as though one is missing.
 
 ## Freelancing
 * alistairshaw
+* jon (Jonathan Knapp)
 
 ## Linux
 
@@ -56,3 +61,4 @@ Feel free to add a category if you feel as though one is missing.
 * jroeder
 * mark.harwood
 * Jay B
+* jon (Jonathan Knapp)
