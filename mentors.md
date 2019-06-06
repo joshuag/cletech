@@ -27,10 +27,12 @@ These are folks that have volunteered their time to help mentor anyone. By addin
 ## Erlang/Elixir
 
 ## Freelancing
+* alistairshaw
 
 ## Linux
 
 ## PHP
+* alistairshaw
 
 ## Postgres
 
