@@ -14,6 +14,7 @@ Feel free to add a category if you feel as though one is missing.
 ## Ruby
 * jroeder
 * jon (Jonathan Knapp)
+* train (Adam Gall)
 
 ## C#/.Net
 * Sean Martz
@@ -25,12 +26,15 @@ Feel free to add a category if you feel as though one is missing.
 
 ## JavaScript/Node
 * jon (Jonathan Knapp)
+* train (Adam Gall)
 
 ## Careers
 
 ## Cryptocurrency/Blockchain
+* train (Adam Gall)
 
 ## DevOps
+* train (Adam Gall)
 
 ## Erlang/Elixir
 
@@ -62,3 +66,7 @@ Feel free to add a category if you feel as though one is missing.
 * mark.harwood
 * Jay B
 * jon (Jonathan Knapp)
+* train (Adam Gall)
+
+## Entrepreneurship
+* train (Adam Gall)
