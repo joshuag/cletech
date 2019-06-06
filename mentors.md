@@ -2,6 +2,8 @@
 
 These are folks that have volunteered their time to help mentor anyone. By adding your slack username here, you are signalling your availability via the Cleveland Tech Slack to answer questions in your area of expertise.
 
+Feel free to add a category if you feel as though one is missing.
+
 ## Engineering Management
 * joshuag
 
