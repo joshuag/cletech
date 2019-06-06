@@ -4,8 +4,59 @@ These are folks that have volunteered their time to help mentor anyone. By addin
 
 Feel free to add a category if you feel as though one is missing.
 
+## C#/.Net
+* Sean Martz
+* Jay B
+
+## Career Development
+* joshuag
+* jroeder
+* mark.harwood
+* Jay B
+* jon (Jonathan Knapp)
+* train (Adam Gall)
+
+## Cryptocurrency/Blockchain
+* train (Adam Gall)
+
+## DevOps
+* train (Adam Gall)
+
 ## Engineering Management
 * joshuag
+
+## Entrepreneurship
+* train (Adam Gall)
+
+## Erlang/Elixir
+
+## Freelancing
+* alistairshaw
+* jon (Jonathan Knapp)
+
+## Java
+
+## JavaScript/Node
+* jon (Jonathan Knapp)
+* train (Adam Gall)
+
+## Linux
+
+## Mac
+
+## Machine Learning
+
+## MSSQL
+* Jay B
+
+## MySQL
+
+## Oracle
+
+## PHP
+* alistairshaw
+
+## Postgres
 
 ## Python
 * joshuag
@@ -13,46 +64,7 @@ Feel free to add a category if you feel as though one is missing.
 
 ## Ruby
 * jroeder
-
-## C#/.Net
-* Sean Martz
-* Jay B
-
-## Machine Learning
-
-## Java
-
-## Careers
-
-## Cryptocurrency/Blockchain
-
-## DevOps
-
-## Erlang/Elixir
-
-## Freelancing
-* alistairshaw
-
-## Linux
-
-## PHP
-* alistairshaw
-
-## Postgres
-
-## MySQL
-
-## Oracle
-
-## MSSQL
-* Jay B
+* jon (Jonathan Knapp)
+* train (Adam Gall)
 
 ## Windows
-
-## Mac
-
-## Career Development
-* joshuag
-* jroeder
-* mark.harwood
-* Jay B
