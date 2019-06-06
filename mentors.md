@@ -7,8 +7,10 @@ These are folks that have volunteered their time to help mentor anyone. By addin
 
 ## Python
 * joshuag
+* jroeder
 
 ## Ruby
+* jroeder
 
 ## C#/.Net
 
@@ -25,8 +27,6 @@ These are folks that have volunteered their time to help mentor anyone. By addin
 ## Erlang/Elixir
 
 ## Freelancing
-
-## DevOps
 
 ## Linux
 
@@ -46,4 +46,4 @@ These are folks that have volunteered their time to help mentor anyone. By addin
 
 ## Career Development
 * joshuag
-
+* jroeder
