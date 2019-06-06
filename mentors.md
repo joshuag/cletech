@@ -14,6 +14,8 @@ These are folks that have volunteered their time to help mentor anyone. By addin
 
 ## C#/.Net
 * Sean Martz
+* Jay B
+
 ## Machine Learning
 
 ## Java
@@ -41,6 +43,7 @@ These are folks that have volunteered their time to help mentor anyone. By addin
 ## Oracle
 
 ## MSSQL
+* Jay B
 
 ## Windows
 
@@ -50,3 +53,4 @@ These are folks that have volunteered their time to help mentor anyone. By addin
 * joshuag
 * jroeder
 * mark.harwood
+* Jay B
