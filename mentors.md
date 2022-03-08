@@ -13,6 +13,7 @@ If you add yourself, please do so in alphabetical order.
 
 ## Career Development
 * ankurpatel
+* daveshah
 * joshuag
 * jroeder
 * mark.harwood
@@ -30,6 +31,7 @@ If you add yourself, please do so in alphabetical order.
 
 ## Engineering Management
 * ankurpatel
+* daveshah
 * joshuag
 * sadukie (Sarah Dutkiewicz) 
 
@@ -37,6 +39,7 @@ If you add yourself, please do so in alphabetical order.
 * train (Adam Gall)
 
 ## Erlang/Elixir
+* daveshah
 
 ## Freelancing
 * alistairshaw
@@ -82,9 +85,16 @@ If you add yourself, please do so in alphabetical order.
 * sadukie (Sarah Dutkiewicz)
 
 ## Ruby
+* daveshah
 * jroeder
 * jon (Jonathan Knapp)
 * train (Adam Gall)
+
+## Software Design and Architecture
+* daveshah
+
+## Test Driven Development
+* daveshah
 
 ## Windows
 * sadukie (Sarah Dutkiewicz)
