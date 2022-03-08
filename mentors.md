@@ -18,6 +18,7 @@ Feel free to add a category if you feel as though one is missing.
 * train (Adam Gall)
 * sadukie (Sarah Dutkiewicz)
 * ankurpatel
+* daveshah
 
 ## Cryptocurrency/Blockchain
 * train (Adam Gall)
@@ -30,11 +31,13 @@ Feel free to add a category if you feel as though one is missing.
 * joshuag
 * sadukie (Sarah Dutkiewicz) 
 * ankurpatel
+* daveshah
 
 ## Entrepreneurship
 * train (Adam Gall)
 
 ## Erlang/Elixir
+* daveshah
 
 ## Freelancing
 * alistairshaw
@@ -82,6 +85,13 @@ Feel free to add a category if you feel as though one is missing.
 * jroeder
 * jon (Jonathan Knapp)
 * train (Adam Gall)
+* daveshah
+
+## Software Design and Architecture
+* daveshah
+
+## Test Driven Development
+* daveshah
 
 ## Windows
 * sadukie (Sarah Dutkiewicz)
