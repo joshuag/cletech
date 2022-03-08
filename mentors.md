@@ -4,34 +4,36 @@ These are folks that have volunteered their time to help mentor anyone. By addin
 
 Feel free to add a category if you feel as though one is missing.
 
+If you add yourself, please do so in alphabetical order. 
+
 ## C#/.Net
 * Sean Martz
 * Jay B
 * sadukie (Sarah Dutkiewicz)
 
 ## Career Development
+* ankurpatel
+* daveshah
 * joshuag
 * jroeder
 * mark.harwood
 * Jay B
 * jon (Jonathan Knapp)
-* train (Adam Gall)
 * sadukie (Sarah Dutkiewicz)
-* ankurpatel
-* daveshah
+* train (Adam Gall)
 
 ## Cryptocurrency/Blockchain
 * train (Adam Gall)
 
 ## DevOps
-* train (Adam Gall)
 * sadukie (Sarah Dutkiewicz)
+* train (Adam Gall)
 
 ## Engineering Management
-* joshuag
-* sadukie (Sarah Dutkiewicz) 
 * ankurpatel
 * daveshah
+* joshuag
+* sadukie (Sarah Dutkiewicz) 
 
 ## Entrepreneurship
 * train (Adam Gall)
@@ -49,14 +51,15 @@ Feel free to add a category if you feel as though one is missing.
 
 ## JavaScript/Node
 * jon (Jonathan Knapp)
-* train (Adam Gall)
 * sadukie (Sarah Dutkiewicz)
+* train (Adam Gall)
 
 ## Linux
 * sadukie (Sarah Dutkiewicz)
 
 ## Mac
 * ankurpatel
+* joshuag
 
 ## Machine Learning
 
@@ -82,10 +85,10 @@ Feel free to add a category if you feel as though one is missing.
 * sadukie (Sarah Dutkiewicz)
 
 ## Ruby
+* daveshah
 * jroeder
 * jon (Jonathan Knapp)
 * train (Adam Gall)
-* daveshah
 
 ## Software Design and Architecture
 * daveshah
