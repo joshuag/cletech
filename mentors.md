@@ -7,6 +7,7 @@ Feel free to add a category if you feel as though one is missing.
 ## C#/.Net
 * Sean Martz
 * Jay B
+* sadukie (Sarah Dutkiewicz)
 
 ## Career Development
 * joshuag
@@ -15,6 +16,7 @@ Feel free to add a category if you feel as though one is missing.
 * Jay B
 * jon (Jonathan Knapp)
 * train (Adam Gall)
+* sadukie (Sarah Dutkiewicz)
 * ankurpatel
 
 ## Cryptocurrency/Blockchain
@@ -22,9 +24,11 @@ Feel free to add a category if you feel as though one is missing.
 
 ## DevOps
 * train (Adam Gall)
+* sadukie (Sarah Dutkiewicz)
 
 ## Engineering Management
 * joshuag
+* sadukie (Sarah Dutkiewicz) 
 * ankurpatel
 
 ## Entrepreneurship
@@ -35,14 +39,18 @@ Feel free to add a category if you feel as though one is missing.
 ## Freelancing
 * alistairshaw
 * jon (Jonathan Knapp)
+* sadukie (Sarah Dutkiewicz)
 
 ## Java
+* sadukie (Sarah Dutkiewicz)
 
 ## JavaScript/Node
 * jon (Jonathan Knapp)
 * train (Adam Gall)
+* sadukie (Sarah Dutkiewicz)
 
 ## Linux
+* sadukie (Sarah Dutkiewicz)
 
 ## Mac
 * ankurpatel
@@ -51,8 +59,10 @@ Feel free to add a category if you feel as though one is missing.
 
 ## MSSQL
 * Jay B
+* sadukie (Sarah Dutkiewicz)
 
 ## MySQL
+* sadukie (Sarah Dutkiewicz)
 
 ## Oracle
 
@@ -65,9 +75,13 @@ Feel free to add a category if you feel as though one is missing.
 * joshuag
 * jroeder
 
+## R
+* sadukie (Sarah Dutkiewicz)
+
 ## Ruby
 * jroeder
 * jon (Jonathan Knapp)
 * train (Adam Gall)
 
 ## Windows
+* sadukie (Sarah Dutkiewicz)
