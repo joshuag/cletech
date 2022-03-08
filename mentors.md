@@ -41,6 +41,9 @@ Feel free to add a category if you feel as though one is missing.
 * jon (Jonathan Knapp)
 * sadukie (Sarah Dutkiewicz)
 
+## Front-end (HTML/CSS/SASS/SCSS/etc)
+* camwardzala (Cam Wardzala)
+
 ## Java
 * sadukie (Sarah Dutkiewicz)
 
@@ -48,12 +51,14 @@ Feel free to add a category if you feel as though one is missing.
 * jon (Jonathan Knapp)
 * train (Adam Gall)
 * sadukie (Sarah Dutkiewicz)
+* camwardzala (Cam Wardzala)
 
 ## Linux
 * sadukie (Sarah Dutkiewicz)
 
 ## Mac
 * ankurpatel
+* camwardzala (Cam Wardzala)
 
 ## Machine Learning
 
