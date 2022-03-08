@@ -15,6 +15,7 @@ Feel free to add a category if you feel as though one is missing.
 * Jay B
 * jon (Jonathan Knapp)
 * train (Adam Gall)
+* ankurpatel
 
 ## Cryptocurrency/Blockchain
 * train (Adam Gall)
@@ -24,6 +25,7 @@ Feel free to add a category if you feel as though one is missing.
 
 ## Engineering Management
 * joshuag
+* ankurpatel
 
 ## Entrepreneurship
 * train (Adam Gall)
@@ -43,6 +45,7 @@ Feel free to add a category if you feel as though one is missing.
 ## Linux
 
 ## Mac
+* ankurpatel
 
 ## Machine Learning
 
