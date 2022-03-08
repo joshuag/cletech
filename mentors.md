@@ -4,7 +4,7 @@ These are folks that have volunteered their time to help mentor anyone. By addin
 
 Feel free to add a category if you feel as though one is missing.
 
-If you add yourself, please do so in alphabetical order. You may also deeplink into your slack DMs by copying an existing URL and modifying the `id` component of the URL. You can find your ID in Slack by clicking on your profile, selecting "more" and then "copy member ID."
+If you add yourself, please do so in alphabetical order. 
 
 ## C#/.Net
 * Sean Martz
@@ -13,7 +13,7 @@ If you add yourself, please do so in alphabetical order. You may also deeplink i
 
 ## Career Development
 * ankurpatel
-* [joshuag](slack://user?team=T04MYHT0G&id=U0NTDNCCA)
+* joshuag
 * jroeder
 * mark.harwood
 * Jay B
@@ -30,7 +30,7 @@ If you add yourself, please do so in alphabetical order. You may also deeplink i
 
 ## Engineering Management
 * ankurpatel
-* [joshuag](slack://user?team=T04MYHT0G&id=U0NTDNCCA)
+* joshuag
 * sadukie (Sarah Dutkiewicz) 
 
 ## Entrepreneurship
@@ -56,7 +56,7 @@ If you add yourself, please do so in alphabetical order. You may also deeplink i
 
 ## Mac
 * ankurpatel
-* [joshuag](slack://user?team=T04MYHT0G&id=U0NTDNCCA)
+* joshuag
 
 ## Machine Learning
 
@@ -75,7 +75,7 @@ If you add yourself, please do so in alphabetical order. You may also deeplink i
 ## Postgres
 
 ## Python
-* [joshuag](slack://user?team=T04MYHT0G&id=U0NTDNCCA)
+* joshuag
 * jroeder
 
 ## R
