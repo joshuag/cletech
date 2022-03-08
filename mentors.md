@@ -17,6 +17,7 @@ Feel free to add a category if you feel as though one is missing.
 * jon (Jonathan Knapp)
 * train (Adam Gall)
 * sadukie (Sarah Dutkiewicz)
+* ankurpatel
 
 ## Cryptocurrency/Blockchain
 * train (Adam Gall)
@@ -27,8 +28,9 @@ Feel free to add a category if you feel as though one is missing.
 
 ## Engineering Management
 * joshuag
-* sadukie (Sarah Dutkiewicz)
-* 
+* sadukie (Sarah Dutkiewicz) 
+* ankurpatel
+
 ## Entrepreneurship
 * train (Adam Gall)
 
@@ -51,6 +53,7 @@ Feel free to add a category if you feel as though one is missing.
 * sadukie (Sarah Dutkiewicz)
 
 ## Mac
+* ankurpatel
 
 ## Machine Learning
 
