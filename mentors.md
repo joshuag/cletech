@@ -53,9 +53,9 @@ If you add yourself, please do so in alphabetical order.
 * sadukie (Sarah Dutkiewicz)
 
 ## JavaScript/Node
+* camwardzala (Cam Wardzala)
 * jon (Jonathan Knapp)
 * sadukie (Sarah Dutkiewicz)
-* camwardzala (Cam Wardzala)
 * train (Adam Gall)
 
 ## Linux
