@@ -16,13 +16,14 @@ If you add yourself, please do so in alphabetical order.
 * [daveshah](https://calendly.com/daveshah/)
 * Jay B
 * jon (Jonathan Knapp)
-* joshuag
+* [joshuag](https://calendly.com/thejoshuag/)
 * jroeder
 * mark.harwood
 * sadukie (Sarah Dutkiewicz)
 * train (Adam Gall)
 
 ## Cryptocurrency/Blockchain
+* [joshuag](https://calendly.com/thejoshuag/)
 * train (Adam Gall)
 
 ## DevOps
@@ -32,10 +33,11 @@ If you add yourself, please do so in alphabetical order.
 ## Engineering Management
 * ankurpatel
 * [daveshah](https://calendly.com/daveshah/)
-* joshuag
+* [joshuag](https://calendly.com/thejoshuag/)
 * sadukie (Sarah Dutkiewicz) 
 
 ## Entrepreneurship
+* [joshuag](https://calendly.com/thejoshuag/)
 * train (Adam Gall)
 
 ## Erlang/Elixir
@@ -64,7 +66,7 @@ If you add yourself, please do so in alphabetical order.
 ## Mac
 * ankurpatel
 * camwardzala (Cam Wardzala)
-* joshuag
+* [joshuag](https://calendly.com/thejoshuag/)
 
 ## Machine Learning
 
@@ -83,7 +85,7 @@ If you add yourself, please do so in alphabetical order.
 ## Postgres
 
 ## Python
-* joshuag
+* [joshuag](https://calendly.com/thejoshuag/)
 * jroeder
 
 ## R
