@@ -2,7 +2,7 @@
 
 These are folks that have volunteered their time to help mentor anyone. By adding your slack username here, you are signalling your availability via the Cleveland Tech Slack to answer questions in your area of expertise.
 
-Feel free to add a category if you feel as though one is missing.
+Feel free to add a category if you feel as though one is missing; please preserve alphabetical order.
 
 If you add yourself, please do so in alphabetical order. 
 
@@ -14,11 +14,11 @@ If you add yourself, please do so in alphabetical order.
 ## Career Development
 * ankurpatel
 * daveshah
+* Jay B
+* jon (Jonathan Knapp)
 * joshuag
 * jroeder
 * mark.harwood
-* Jay B
-* jon (Jonathan Knapp)
 * sadukie (Sarah Dutkiewicz)
 * train (Adam Gall)
 
