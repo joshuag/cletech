@@ -46,10 +46,14 @@ If you add yourself, please do so in alphabetical order.
 * jon (Jonathan Knapp)
 * sadukie (Sarah Dutkiewicz)
 
+## Front-end (HTML/CSS/SASS/SCSS/etc)
+* camwardzala (Cam Wardzala)
+
 ## Java
 * sadukie (Sarah Dutkiewicz)
 
 ## JavaScript/Node
+* camwardzala (Cam Wardzala)
 * jon (Jonathan Knapp)
 * sadukie (Sarah Dutkiewicz)
 * train (Adam Gall)
@@ -59,6 +63,7 @@ If you add yourself, please do so in alphabetical order.
 
 ## Mac
 * ankurpatel
+* camwardzala (Cam Wardzala)
 * joshuag
 
 ## Machine Learning
