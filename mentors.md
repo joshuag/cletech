@@ -7,9 +7,9 @@ Feel free to add a category if you feel as though one is missing.
 If you add yourself, please do so in alphabetical order. 
 
 ## C#/.Net
-* Sean Martz
 * Jay B
 * sadukie (Sarah Dutkiewicz)
+* Sean Martz
 
 ## Career Development
 * ankurpatel
@@ -86,8 +86,8 @@ If you add yourself, please do so in alphabetical order.
 
 ## Ruby
 * daveshah
-* jroeder
 * jon (Jonathan Knapp)
+* jroeder
 * train (Adam Gall)
 
 ## Software Design and Architecture
