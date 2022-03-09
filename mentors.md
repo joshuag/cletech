@@ -12,7 +12,7 @@ If you add yourself, please do so in alphabetical order.
 * Sean Martz
 
 ## Career Development
-* ankurpatel
+* [ankurpatel](https://calendly.com/ankurpatel1982/)
 * [daveshah](https://calendly.com/daveshah/)
 * Jay B
 * jon (Jonathan Knapp)
@@ -31,7 +31,7 @@ If you add yourself, please do so in alphabetical order.
 * train (Adam Gall)
 
 ## Engineering Management
-* ankurpatel
+* [ankurpatel](https://calendly.com/ankurpatel1982/)
 * [daveshah](https://calendly.com/daveshah/)
 * [joshuag](https://calendly.com/thejoshuag/)
 * sadukie (Sarah Dutkiewicz) 
@@ -64,7 +64,7 @@ If you add yourself, please do so in alphabetical order.
 * sadukie (Sarah Dutkiewicz)
 
 ## Mac
-* ankurpatel
+* [ankurpatel](https://calendly.com/ankurpatel1982/)
 * camwardzala (Cam Wardzala)
 * [joshuag](https://calendly.com/thejoshuag/)
 
@@ -98,6 +98,7 @@ If you add yourself, please do so in alphabetical order.
 * train (Adam Gall)
 
 ## Software Design and Architecture
+* [ankurpatel](https://calendly.com/ankurpatel1982/)
 * [daveshah](https://calendly.com/daveshah/)
 
 ## Test Driven Development
