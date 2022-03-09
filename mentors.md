@@ -13,7 +13,7 @@ If you add yourself, please do so in alphabetical order.
 
 ## Career Development
 * ankurpatel
-* daveshah
+* [daveshah](https://calendly.com/daveshah/)
 * Jay B
 * jon (Jonathan Knapp)
 * joshuag
@@ -31,7 +31,7 @@ If you add yourself, please do so in alphabetical order.
 
 ## Engineering Management
 * ankurpatel
-* daveshah
+* [daveshah](https://calendly.com/daveshah/)
 * joshuag
 * sadukie (Sarah Dutkiewicz) 
 
@@ -39,7 +39,7 @@ If you add yourself, please do so in alphabetical order.
 * train (Adam Gall)
 
 ## Erlang/Elixir
-* daveshah
+* [daveshah](https://calendly.com/daveshah/)
 
 ## Freelancing
 * alistairshaw
@@ -90,16 +90,16 @@ If you add yourself, please do so in alphabetical order.
 * sadukie (Sarah Dutkiewicz)
 
 ## Ruby
-* daveshah
+* [daveshah](https://calendly.com/daveshah/)
 * jon (Jonathan Knapp)
 * jroeder
 * train (Adam Gall)
 
 ## Software Design and Architecture
-* daveshah
+* [daveshah](https://calendly.com/daveshah/)
 
 ## Test Driven Development
-* daveshah
+* [daveshah](https://calendly.com/daveshah/)
 
 ## Windows
 * sadukie (Sarah Dutkiewicz)
