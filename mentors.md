@@ -21,6 +21,7 @@ If you add yourself, please do so in alphabetical order.
 * mark.harwood
 * sadukie (Sarah Dutkiewicz)
 * train (Adam Gall)
+* Bobby McDonald [@bobbymcwho](https://github.com/bobbymcwho)
 
 ## Cryptocurrency/Blockchain
 * [joshuag](https://calendly.com/thejoshuag/)
@@ -42,6 +43,7 @@ If you add yourself, please do so in alphabetical order.
 
 ## Erlang/Elixir
 * [daveshah](https://calendly.com/daveshah/)
+* Bobby McDonald [@bobbymcwho](https://github.com/bobbymcwho)
 
 ## Freelancing
 * alistairshaw
@@ -96,6 +98,7 @@ If you add yourself, please do so in alphabetical order.
 * jon (Jonathan Knapp)
 * jroeder
 * train (Adam Gall)
+* Bobby McDonald [@bobbymcwho](https://github.com/bobbymcwho)
 
 ## Software Design and Architecture
 * [ankurpatel](https://calendly.com/ankurpatel1982/)
